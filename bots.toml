@@ -1,0 +1,36 @@
+[[bot]]
+name = "Banana"
+url = "D:/Project/bot/banana/banana-fix/bot.py"
+
+[[bot]]
+name = "bump"
+url = "D:/Project/bot/bump-claimer/bot.py"
+
+[[bot]]
+name = "AgeofMars"
+url = "D:/Project/bot/ageofmars-claimer/bot.py"
+
+[[bot]]
+name = "agen301"
+url = "D:/Project/bot/agent301-claimer/bot.py"
+
+[[bot]]
+name = "matchquest"
+url = "D:/Project/bot/matchquest-claimer/bot.py"
+
+[[bot]]
+name = "babydoge"
+url = "D:/Project/bot/babydoge-claimer/bot.py"
+
+[[bot]]
+name = "hashcat"
+url = "D:/Project/bot/hashcats-claimer/bot.py"
+
+[[bot]]
+name = "tomarket"
+url = "D:/Project/bot/tomarket-claimer/bot.py"
+
+[[bot]]
+name = "tabizo"
+url = "D:/Project/bot/tabizoo-claimer/bot.py"
+
